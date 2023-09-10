@@ -1,7 +1,3 @@
-# Dice-Game
-
-
-```markdown
 # Dice Game
 
 Welcome to the Dice Game project! This simple web-based game allows players to roll two dice and see the results.
